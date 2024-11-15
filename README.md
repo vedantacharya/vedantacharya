@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vedantacharya
-- 👀 I’m interested in Generative AI and Competitive programming
+- 👀 I’m interested in starting a career in Full stack development
 - 🌱 I’m currently working in GenAI and LLMOPS
-- 💞️ I’m looking to collaborate on Generative AI related projects
+- 💞️ I’m looking to collaborate on full stack related projects
 - 📫 connect with me via linkedIn: https://www.linkedin.com/in/vedant-acharya-003053218/
 
 <!---
